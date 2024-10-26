@@ -1,0 +1,11 @@
+.image{
+    float: right;
+    width: 80px;
+    height: 80px;
+}
+.sign{
+    float: right;
+}
+body{
+    background-color: aqua;
+}
